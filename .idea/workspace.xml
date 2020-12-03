@@ -7,6 +7,8 @@
       <change afterPath="$PROJECT_DIR$/../.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,7 +23,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1l9Dv7wAxyy7uXudTIg709J6IbY" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -94,7 +96,7 @@
       <updated>1607000640280</updated>
       <workItem from="1607000641538" duration="410000" />
       <workItem from="1607001099816" duration="3376000" />
-      <workItem from="1607004707076" duration="797000" />
+      <workItem from="1607004707076" duration="1165000" />
     </task>
     <servers />
   </component>
